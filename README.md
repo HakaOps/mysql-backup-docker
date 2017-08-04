@@ -14,10 +14,10 @@ git clone https://github.com/HakaOps/mysql-backup-docker.git
 Script Settings
 =======
 * `MYSQL_ROOT_PASSWORD`: MySQL root Password
-* `DOCKER_IMAGE`: Grep match for `docker ps` command
-* `BACKUP_DATE`: Suffix date name for backup file
-* `BACKUP_PATH`: Backup storage path
-* `BACKUP_RETENTION_DAYS`: Retention days for backup files
+* `DOCKER_IMAGE`: grep match for `docker ps` command
+* `BACKUP_DATE`: suffix date name for backup file
+* `BACKUP_PATH`: backup storage path
+* `BACKUP_RETENTION_DAYS`: retention days for backup files
 
 Usage
 =======
@@ -49,4 +49,5 @@ Aug  4 21:17:15 hakaops ubuntu: [MYSQL-DOCKER-BACKUP] INFO: Finished Backup Scri
 Author
 ======
 Vagner Rodrigues Fernandes <hellops@hakaops.io>
+
 https://hakaops.io/
