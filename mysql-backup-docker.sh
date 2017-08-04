@@ -2,7 +2,7 @@
 #title           :mysql-backup-docker.sh
 #description     :This script will backup mysql databases running on docker container. 
 #author		 :Vagner Rodrigues Fernandes - HakaOps Inc.
-#website	 : http://hakaops.io/
+#website	 :https://hakaops.io/
 #date            :20170804
 #version         :0.1    
 #usage		 :./mysql-backup-docker.sh
